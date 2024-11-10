@@ -1,0 +1,3 @@
+- display a board
+- input a board
+- solve a board
